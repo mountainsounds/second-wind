@@ -1,0 +1,58 @@
+// Base Styling
+@import './globals.scss';
+@import '~bulma/bulma';
+
+html,body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+.hero .nav, .hero.is-success .nav {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+section#homePage {
+  padding: 5px;
+  background-image: url("../public/redRockBg.jpg");
+  background-size: cover;
+  background-position: center;
+//   background-attachment: fixed;
+
+  height: 100vh;
+//   display: flex;
+//   justify-content: flex-start;
+//   align-items: center;
+}
+
+.hero .subtitle {
+//   padding: 1rem 0;
+  line-height: 1.5;
+}
+
+.burger {
+    // margin: 5px;
+    color:black;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    
+    &:hover {
+        border: 1px solid whitesmoke;
+        color: white;
+    }
+}
+
+#navbarMenu {
+    background: none;
+    border-bottom: none;
+    box-shadow: none;
+}
+
+#welcomeInfo {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    .title, .subtitle {
+        color: black;
+        font-size: 1.5em;
+        
+    }
+}
