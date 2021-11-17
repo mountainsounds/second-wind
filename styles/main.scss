@@ -11,6 +11,26 @@ html,body {
   box-shadow: none;
 }
 
+// Overriding default Background color
+.hero.is-info {
+    background-color: transparent;
+}
+
+
+
+body {
+    padding: 5px;
+  background-image: url("../public/redRockBg.jpg");
+  background-size: cover;
+  background-position: center;
+//   background-attachment: fixed;
+
+  height: 100vh;
+//   display: flex;
+//   justify-content: flex-start;
+//   align-items: center;
+}
+
 section#homePage {
   padding: 5px;
   background-image: url("../public/redRockBg.jpg");
