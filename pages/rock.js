@@ -1,7 +1,7 @@
 import Nav from '../components/nav';
 import { useState } from 'react';
 import Card from '../components/cards/Card';
-import rockItems from '../data/rockItems';
+import rockItems from '@/data/rockItems';
 
 
 
@@ -17,5 +17,4 @@ export default function Rock() {
     )
 }
 
-// className = "hero is-info is-fullheight"
 

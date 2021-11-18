@@ -1,11 +1,13 @@
+import Image from 'next/image';
 
-const CardImage = ({ handleModalClick }) => {
+const CardImage = ({ handleModalClick, image }) => {
     return (
-        <div className="card-image">
-            <figure className="image is-4by3">
-                <img onClick={handleModalClick} src="https://source.unsplash.com/RWnpyGtY1aU" alt="Placeholder image" className="modal-button" data-target="modal-image2" />
-            </figure>
-        </div>
+        <Image
+            src={image}
+            alt='Picture of the author'
+            layout='responsive'
+            onClick={handleModalClick}
+        />
     )
 }
 

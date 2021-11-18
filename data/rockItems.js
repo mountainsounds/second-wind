@@ -1,6 +1,11 @@
+import atcGuide from '@/public/rock/atcGuide.jpeg';
+import dmm from '@/public/rock/dmm.jpeg';
+import metoliousCams from '@/public/rock/metoliousCams.jpeg';
+import sportivaShoes from '@/public/rock/sportivaShoes.jpeg';
+
 const rockItems = [
     {
-        image: '',
+        image: sportivaShoes,
         name: 'La Sportiva: TX3 Approach Shoes',
         info: 'Mens, 13.5.',
         condition: 'New.',
@@ -8,7 +13,7 @@ const rockItems = [
         salePrice: '$60',
         retailPrice: '$135'
     }, {
-        image: '',
+        image: metoliousCams,
         name: 'Metolious: Ultralight Master Cam',
         info: 'Purple, size #0.',
         condition: 'Great',
@@ -17,7 +22,7 @@ const rockItems = [
         retailPrice: '$60'
     },
     {
-        image: '',
+        image: metoliousCams,
         name: 'Metolious: Ultralight Master Cam',
         info: 'Gray, size #00.',
         condition: 'Great',
@@ -26,7 +31,7 @@ const rockItems = [
         retailPrice: '$60'
     },
     {
-        image: '',
+        image: atcGuide,
         name: 'Black Diamond: ATC Guide',
         info: 'Green',
         condition: 'Good',
@@ -35,7 +40,7 @@ const rockItems = [
         retailPrice: '$30'
     },
     {
-        image: '',
+        image: dmm,
         name: 'DMM: Phantom Carabiner',
         info: 'Locking, screwgate carabiner.',
         condition: 'Good.',
