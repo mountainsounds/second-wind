@@ -1,18 +1,21 @@
 import Nav from '../components/nav';
 import { useState } from 'react';
 import Card from '../components/cards/Card';
+import rockItems from '../data/rockItems';
+
+
 
 export default function Rock() {
 
     return (
-        <section id='rockPage' className="hero is-info is-fullheight">
+        <section id='rockPage' className='hero is-info' >
             <Nav />
-            <section className="container">
-                <Card />
-            </section>
-
-
+            <div className="cardListContainer is-flex">
+                {rockItems.map(data => <Card data={data} />)}
+            </div>
         </section >
     )
 }
+
+// className = "hero is-info is-fullheight"
 
