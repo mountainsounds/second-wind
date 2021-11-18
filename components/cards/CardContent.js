@@ -1,11 +1,17 @@
 
-const CardContent = ({ handleModalClick }) => {
+const CardContent = ({ cardData }) => {
+    const { name, info, condition, notes, salePrice, retailPrice } = cardData;
     return (
         <div className="card-content">
             <div className="content">
-                <h4>Click on image above</h4>
-                <p>Purus semper eget duis at tellus at urna condimentum mattis. Non blandit massa enim nec. Integer enim neque volutpat ac tincidunt vitae semper quis. Accumsan tortor posuere ac ut consequat semper viverra nam.</p>
-                <span onClick={handleModalClick} className="button is-link modal-button" data-target="modal-image2">Image modal</span>
+                <h4>{name}</h4>
+                <p>Info: {info}</p>
+                <p>Condition: {condition}</p>
+                <p>Notes: {notes}</p>
+                <div className='priceContainer'>
+                    <span>Sale: {salePrice}</span>
+                    <span>Retail: <s>{retailPrice}</s></span>
+                </div>
             </div>
         </div>
     )

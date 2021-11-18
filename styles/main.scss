@@ -74,3 +74,15 @@ body {
     flex: 1 1 0;
   }
 }
+
+.card-content .content {
+  .priceContainer {
+    display: flex;
+    
+    span {
+      &:first-child {color: green};
+      &:last-child {color: red};
+      margin-right: 1rem;
+    }
+  }
+}

@@ -1,5 +1,6 @@
 const rockItems = [
     {
+        image: '',
         name: 'La Sportiva: TX3 Approach Shoes',
         info: 'Mens, 13.5.',
         condition: 'New.',
@@ -7,6 +8,7 @@ const rockItems = [
         salePrice: '$60',
         retailPrice: '$135'
     }, {
+        image: '',
         name: 'Metolious: Ultralight Master Cam',
         info: 'Purple, size #0.',
         condition: 'Great',
@@ -15,6 +17,7 @@ const rockItems = [
         retailPrice: '$60'
     },
     {
+        image: '',
         name: 'Metolious: Ultralight Master Cam',
         info: 'Gray, size #00.',
         condition: 'Great',
@@ -23,6 +26,7 @@ const rockItems = [
         retailPrice: '$60'
     },
     {
+        image: '',
         name: 'Black Diamond: ATC Guide',
         info: 'Green',
         condition: 'Good',
@@ -31,6 +35,7 @@ const rockItems = [
         retailPrice: '$30'
     },
     {
+        image: '',
         name: 'DMM: Phantom Carabiner',
         info: 'Locking, screwgate carabiner.',
         condition: 'Good.',
