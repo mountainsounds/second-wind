@@ -1,4 +1,4 @@
-
+import Link from "next/dist/client/link";
 const NavItem = ({ itemInfo }) => {
     return (
         <span className="navbar-item">

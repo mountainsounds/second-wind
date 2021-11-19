@@ -1,5 +1,5 @@
-import Nav from '../components/nav';
-import Card from '../components/cards/Card';
+import Nav from '@/components/navigation/Nav';
+import Card from '@/components/cards/Card';
 
 export default function Winter() {
 
