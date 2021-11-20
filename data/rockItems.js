@@ -5,6 +5,15 @@ import sportivaShoes from '@/public/rock/sportivaShoes.jpeg';
 
 const rockItems = [
     {
+        image: atcGuide,
+        name: 'Black Diamond: ATC Guide',
+        info: 'Green',
+        condition: 'Good',
+        notes: '',
+        salePrice: '$15',
+        retailPrice: '$30'
+    },
+    {
         image: sportivaShoes,
         name: 'La Sportiva: TX3 Approach Shoes',
         info: 'Mens, 13.5.',
@@ -12,7 +21,18 @@ const rockItems = [
         notes: 'Never worn.',
         salePrice: '$60',
         retailPrice: '$135'
-    }, {
+    },
+
+    {
+        image: dmm,
+        name: 'DMM: Phantom Carabiner',
+        info: 'Locking, screwgate carabiner.',
+        condition: 'Good.',
+        notes: 'Only cosmetic wear, may be an older model.',
+        salePrice: '$5',
+        retailPrice: '$15'
+    },
+    {
         image: metoliousCams,
         name: 'Metolious: Ultralight Master Cam',
         info: 'Purple, size #0.',
@@ -30,24 +50,7 @@ const rockItems = [
         salePrice: '$30',
         retailPrice: '$60'
     },
-    {
-        image: atcGuide,
-        name: 'Black Diamond: ATC Guide',
-        info: 'Green',
-        condition: 'Good',
-        notes: '',
-        salePrice: '$15',
-        retailPrice: '$30'
-    },
-    {
-        image: dmm,
-        name: 'DMM: Phantom Carabiner',
-        info: 'Locking, screwgate carabiner.',
-        condition: 'Good.',
-        notes: 'Only cosmetic wear, may be an older model.',
-        salePrice: '$5',
-        retailPrice: '$15'
-    }
+
 ]
 
 export default rockItems;

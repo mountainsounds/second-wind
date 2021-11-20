@@ -1,23 +1,37 @@
+import arcTeryxSoftShell from '@/public/winter/arcTeryxSoftShell.jpeg';
+import atAR from '@/public/winter/atAR.jpeg';
+import atHardShell from '@/public/winter/atHardShell.jpeg';
+import atSL from '@/public/winter/atSL.jpeg';
+import balaclava from '@/public/winter/balaclava.jpeg';
+import boots from '@/public/winter/boots.jpeg';
+import crocodile from '@/public/winter/crocodile.jpeg';
+import highcamp from '@/public/winter/highcamp.jpeg';
+import mammutSoftShell from '@/public/winter/mammutSoftShell.jpeg';
+import marmotSleepingBag from '@/public/winter/marmotSleepingBag.jpeg';
+import mhPuffy from '@/public/winter/mhPuffy.jpeg';
+import orHat from '@/public/winter/orHat.jpeg';
+import pl400 from '@/public/winter/pl400.jpeg';
+import rockyMountain from '@/public/winter/rockyMountain.jpeg';
+import skiBoots from '@/public/winter/skiBoots.jpeg';
+import skiHelmet from '@/public/winter/skiHelmet.jpeg';
+import verglas from '@/public/winter/verglas.jpeg';
+
+
+
+
+
 const winterItems = [
     {
-        image: '',
+        image: boots,
         name: 'La Sportiva: Nepal Cube GTX',
         info: 'Mens, Size 47.',
         condition: 'New.',
         notes: 'Never worn, still have tags.',
         salePrice: '$350',
         retailPrice: '$600'
-    }, {
-        image: '',
-        name: 'Marmot: Plasma Sleeping Bag',
-        info: '40 degree sleeping bag.',
-        condition: 'Great',
-        notes: 'Mostly used for van camping.',
-        salePrice: '$150',
-        retailPrice: '$400'
     },
     {
-        image: '',
+        image: mhPuffy,
         name: 'Mountain Hardwear: Phantom Puffy',
         info: 'Hooded, down winter belay jacket. Size large.',
         condition: 'Good',
@@ -27,7 +41,7 @@ const winterItems = [
         retailPrice: '$400'
     },
     {
-        image: '',
+        image: highcamp,
         name: 'Outdoor Research: Highcamp Mitts',
         info: 'Mens, size medium.',
         condition: 'Great.',
@@ -36,7 +50,7 @@ const winterItems = [
         retailPrice: '$95'
     },
     {
-        image: '',
+        image: pl400,
         name: 'OR: PL 400 Sensor Gloves',
         info: 'Mens, size large. Smartphone compatible.',
         condition: 'Good.',
@@ -45,7 +59,7 @@ const winterItems = [
         retailPrice: '$40'
     },
     {
-        image: '',
+        image: atSL,
         name: 'Arc Teryx: Phase SL Base Layer',
         info: 'Lightweight bottom base layer. Size large.',
         condition: 'Great',
@@ -54,7 +68,7 @@ const winterItems = [
         retailPrice: '$75'
     },
     {
-        image: '',
+        image: atAR,
         name: 'Arc Teryx: Phase AR Base Layer',
         info: 'Moderate weight bottom base layer. Size large.',
         condition: 'Great.',
@@ -63,7 +77,7 @@ const winterItems = [
         retailPrice: '$100ish'
     },
     {
-        image: '',
+        image: rockyMountain,
         name: 'OR: Rocky Mountain Low Gaiters',
         info: 'Size Large / XL',
         condition: 'Good / great.',
@@ -72,7 +86,7 @@ const winterItems = [
         retailPrice: '$40'
     },
     {
-        image: '',
+        image: verglas,
         name: 'OR: Verglas Gaiters',
         info: 'Size small.',
         condition: 'Good / great.',
@@ -81,7 +95,7 @@ const winterItems = [
         retailPrice: '$70'
     },
     {
-        image: '',
+        image: crocodile,
         name: 'OR: Crocodile Gaiters',
         info: 'Mens, size large.',
         condition: 'Good / great.',
@@ -90,7 +104,7 @@ const winterItems = [
         retailPrice: '$100'
     },
     {
-        image: '',
+        image: orHat,
         name: 'OR: Wind Stopper Hat',
         info: 'Size large.',
         condition: 'Good',
@@ -99,7 +113,7 @@ const winterItems = [
         retailPrice: '$34'
     },
     {
-        image: '',
+        image: balaclava,
         name: 'OR: Thin Balaclava',
         info: 'Size large',
         condition: 'Good',
@@ -108,7 +122,7 @@ const winterItems = [
         retailPrice: '$38'
     },
     {
-        image: '',
+        image: atHardShell,
         name: 'Arc Teryx: Alpha FL Jacket',
         info: 'Goretex Alpine Shell Jacket. Size large.',
         condition: 'Good / great',
@@ -117,7 +131,7 @@ const winterItems = [
         retailPrice: '$475'
     },
     {
-        image: '',
+        image: arcTeryxSoftShell,
         name: 'Arc Teryx: Sigma SL Jacket',
         info: 'Alpine or multi-pitch rock, softshell jacket. Size large.',
         condition: 'Good / great',
@@ -126,7 +140,7 @@ const winterItems = [
         retailPrice: '$189'
     },
     {
-        image: '',
+        image: mammutSoftShell,
         name: 'Mammut: Nordpfeiler Jacket',
         info: 'Alpine / Ice Climbing softshell jacket. Size large.',
         condition: 'Great.',
@@ -135,7 +149,7 @@ const winterItems = [
         retailPrice: '$350'
     },
     {
-        image: '',
+        image: skiHelmet,
         name: 'Giro: Jackson MIPS Ski Helmet',
         info: 'Adult, large ski helmet (2019).',
         condition: 'Great.',
@@ -144,13 +158,22 @@ const winterItems = [
         retailPrice: '$180'
     },
     {
-        image: '',
+        image: skiBoots,
         name: 'Head: Edge LYT 100 Ski Boots',
         info: 'Black / Red color, size 28.5. My street shoe size is 13.',
         condition: 'Great.',
         notes: 'Used 6x.',
         salePrice: '$300',
         retailPrice: '$500'
+    },
+    {
+        image: marmotSleepingBag,
+        name: 'Marmot: Plasma Sleeping Bag',
+        info: '40 degree sleeping bag.',
+        condition: 'Great',
+        notes: 'Mostly used for van camping.',
+        salePrice: '$150',
+        retailPrice: '$400'
     },
 
 ]
