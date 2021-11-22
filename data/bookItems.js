@@ -42,27 +42,6 @@ const training = [
         retail: '$16'
     },
     {
-        title: 'Ice & Mixed Climbing: Modern Technique',
-        author: 'Will Gadd',
-        condition: 'Great',
-        sale: '$10',
-        retail: '$25'
-    },
-    {
-        title: 'One Move Too Many',
-        author: 'Volker Schofel, Hocholzer, Lightner',
-        condition: 'Great',
-        sale: '$10',
-        retail: '$33'
-    },
-    {
-        title: 'The Rock Climbers Training Manual',
-        author: 'Mike & Mark Anderson',
-        condition: 'Great',
-        sale: '$15',
-        retail: '$29'
-    },
-    {
         title: 'Wildcare (Wilderness Medecine Textbook)',
         author: 'Franklin Hubbell (Solo)',
         condition: 'Great',
@@ -82,7 +61,7 @@ const literature = [
     {
         title: 'The Boulder: A Philosophy for Bouldering',
         author: 'Francis Sanzaro',
-        condition: 'Greaet',
+        condition: 'Great',
         sale: '$5',
         retail: '$17'
     },
@@ -92,24 +71,25 @@ const literature = [
         condition: 'Great',
         sale: '$5',
         retail: '$15'
-    }
+    },
+    {
+        title: 'The Beckoning Silence',
+        author: 'Joe Simpson',
+        condition: 'Great',
+        sale: '$10',
+        retail: '$20'
+    },
+    {
+        title: 'True Summit',
+        author: 'David Roberts',
+        condition: 'Great',
+        sale: '$14',
+        retail: '$5'
+    },
+
 ]
 
 const guidebooks = [
-    {
-        title: 'Colorado Snow Climbs',
-        author: 'Dave Cooper',
-        condition: 'Great',
-        sale: '$10',
-        retail: '$23'
-    },
-    {
-        title: 'Boulder Canyon Rock Climbs (2nd Edition)',
-        author: `Bob D'Antonio & Peter Beal`,
-        condition: 'Good',
-        sale: '$10',
-        retail: '$35'
-    },
     {
         title: 'Smith Rock Select',
         author: 'Jonathan Thesenga',

@@ -30,16 +30,7 @@ const winterItems = [
         salePrice: '$350',
         retailPrice: '$600'
     },
-    {
-        image: mhPuffy,
-        name: 'Mountain Hardwear: Phantom Puffy',
-        info: 'Hooded, down winter belay jacket. Size large.',
-        condition: 'Good',
-        notes: `1 small hole taped over (see photo), and 1 small
-        darkish stain that may come out with the right know how.`,
-        salePrice: '$100',
-        retailPrice: '$400'
-    },
+
     {
         image: highcamp,
         name: 'Outdoor Research: Highcamp Mitts',
@@ -48,15 +39,6 @@ const winterItems = [
         notes: 'Like new, maybe used a couple of times.',
         salePrice: '$40',
         retailPrice: '$95'
-    },
-    {
-        image: pl400,
-        name: 'OR: PL 400 Sensor Gloves',
-        info: 'Mens, size large. Smartphone compatible.',
-        condition: 'Good.',
-        notes: '',
-        salePrice: '$10',
-        retailPrice: '$40'
     },
     {
         image: atSL,
@@ -70,7 +52,7 @@ const winterItems = [
     {
         image: atAR,
         name: 'Arc Teryx: Phase AR Base Layer',
-        info: 'Moderate weight bottom base layer. Size large.',
+        info: 'Moderate weight base layer. Size large.',
         condition: 'Great.',
         notes: '',
         salePrice: '$30',
@@ -167,6 +149,16 @@ const winterItems = [
         retailPrice: '$500'
     },
     {
+        image: mhPuffy,
+        name: 'Mountain Hardwear: Phantom Puffy',
+        info: 'Hooded, down winter belay jacket. Size large.',
+        condition: 'Good',
+        notes: `1 small hole taped over (see photo), and 1 small
+        darkish stain that may come out with the right know how.`,
+        salePrice: '$100',
+        retailPrice: '$400'
+    },
+    {
         image: marmotSleepingBag,
         name: 'Marmot: Plasma Sleeping Bag',
         info: '40 degree sleeping bag.',
@@ -175,6 +167,7 @@ const winterItems = [
         salePrice: '$150',
         retailPrice: '$400'
     },
+
 
 ]
 

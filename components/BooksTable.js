@@ -3,7 +3,7 @@ import BookRow from "./BookRow";
 
 const BooksTable = () => {
     return (
-        <table class="table">
+        <table className="table">
             <thead>
                 <tr>
                     <th>Title</th>

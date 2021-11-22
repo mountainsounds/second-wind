@@ -1,12 +1,11 @@
 import Image from 'next/image';
 
-const CardImage = ({ handleModalClick, image }) => {
+const CardImage = ({ image }) => {
     return (
         <Image
             src={image}
             alt='Picture of the author'
             layout='responsive'
-            onClick={handleModalClick}
         />
     )
 }
