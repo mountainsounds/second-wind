@@ -18,7 +18,7 @@ import petzlCarabiner from '@/public/rock/petzlCarabiner.jpeg';
 const rockItems = [
     {
         image: atcGuide,
-        link: '',
+        link: 'https://www.blackdiamondequipment.com/en_US/product/atc-guide-belay-rappel-device/',
         name: 'Black Diamond: ATC Guide',
         info: 'Green',
         condition: 'Good',
@@ -28,7 +28,7 @@ const rockItems = [
     },
     {
         image: sportivaShoes,
-        link: '',
+        link: 'https://www.sportiva.com/tx3.html',
         name: 'La Sportiva: TX3 Approach Shoes',
         info: 'Mens, 13.5.',
         condition: 'New.',
@@ -39,17 +39,17 @@ const rockItems = [
 
     {
         image: dmm,
-        link: '',
+        link: 'https://dmmwales.com/climbing-products/locking-carabiners/phantom-1',
         name: 'DMM: Phantom Carabiner',
         info: 'Locking, screwgate carabiner.',
         condition: 'Good.',
-        notes: 'Only cosmetic wear, may be an older model.',
+        notes: 'Only cosmetic wear, - an older model.',
         salePrice: '$5',
         retailPrice: '$15'
     },
     {
         image: metoliousCams,
-        link: '',
+        link: 'https://www.metoliusclimbing.com/ultralight-master-cam.html',
         name: 'Metolious: Ultralight Master Cam',
         info: '1 size #00 and 1 #0',
         condition: 'Great',
@@ -59,7 +59,7 @@ const rockItems = [
     },
     {
         image: bdCams,
-        link: '',
+        link: 'https://www.blackdiamondequipment.com/en_US/product/camalot-ultralight/',
         name: 'Black Diamond: Ultralight Camalots',
         info: "2 #2's, 1 #1, 2 # .75's",
         condition: 'Good',
@@ -69,7 +69,7 @@ const rockItems = [
     },
     {
         image: eldelridCarabiner,
-        link: '',
+        link: 'https://www.edelrid.de/en/sports/standard-carabiner/nineteen-g.html',
         name: 'Edelrid Nineteen G',
         info: 'Quantity: 13, assorted colors',
         condition: 'Good',
@@ -79,7 +79,7 @@ const rockItems = [
     },
     {
         image: petzlCarabiner,
-        link: '',
+        link: 'https://www.petzl.com/US/en/Sport/Carabiners-And-Quickdraws/Sm-D-(US)',
         name: "Petzl Sm'D",
         info: 'Lightweight, D-shaped lockiing carabiner',
         condition: 'Good',
@@ -89,7 +89,7 @@ const rockItems = [
     },
     {
         image: grindstone,
-        link: '',
+        link: 'https://www.tensionclimbing.com/product/grindstone-mk2/',
         name: 'Tension Grindstone Hangboard',
         info: 'Original version.',
         condition: 'Good',
@@ -99,7 +99,7 @@ const rockItems = [
     },
     {
         image: grivelPlume,
-        link: '',
+        link: 'https://us.grivel.com/collections/biners-draws-and-slings/products/plume-nute-k3n',
         name: 'Grivel Plume Nut K3N',
         info: 'Quantity: 4',
         condition: 'Great',
@@ -109,7 +109,7 @@ const rockItems = [
     },
     {
         image: metoliousCamMed,
-        link: '',
+        link: 'https://www.metoliusclimbing.com/ultralight-master-cam.html',
         name: 'Metolious: Ultralight Master Cam',
         info: '1 size #2 and 1 #3',
         condition: 'Good',
@@ -119,7 +119,7 @@ const rockItems = [
     },
     {
         image: nutTool,
-        link: '',
+        link: 'https://www.metoliusclimbing.com/torque-nut-tool.html',
         name: 'Metolious Torque Nut Tool',
         info: '',
         condition: 'Good',
@@ -129,7 +129,7 @@ const rockItems = [
     },
     {
         image: tibloc,
-        link: '',
+        link: 'https://www.petzl.com/US/en/Sport/Ascenders/TIBLOC',
         name: 'TIBLOC',
         info: 'Ultra-light emergency ascender',
         condition: 'Great / like new',
@@ -139,7 +139,7 @@ const rockItems = [
     },
     {
         image: trangoKnife,
-        link: '',
+        link: 'https://trango.com/products/piranha-knife',
         name: 'Trango Piranha Knife',
         info: 'Ultra-light emergency knife',
         condition: 'Great / like new',
@@ -149,7 +149,7 @@ const rockItems = [
     },
     {
         image: tricams,
-        link: '',
+        link: 'https://www.camp-usa.com/outdoor/product/rock-protection/tricam/',
         name: 'Assorted nuts and tricams with carabiner',
         info: '',
         condition: 'Good',
@@ -159,7 +159,7 @@ const rockItems = [
     },
     {
         image: sportivaRock,
-        link: '',
+        link: 'https://www.sportiva.com/tarantulace.html',
         name: 'La Sportiva Tarantulace',
         info: 'Size: 44.5 (US: 11)',
         condition: 'Great',
