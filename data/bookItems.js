@@ -1,5 +1,6 @@
 const training = [
     {
+        link: '',
         title: 'Gimme Kraft!',
         author: 'Patrick Matros & Dicki Korb',
         condition: 'Great',
@@ -7,6 +8,7 @@ const training = [
         retail: '$36'
     },
     {
+        link: '',
         title: 'Climbing: From Sport to Traditional Climbing',
         author: 'Nate Fitch & Ron Funderburke',
         condition: 'Good',
@@ -14,6 +16,7 @@ const training = [
         retail: '$15'
     },
     {
+        link: '',
         title: 'Sport Climbing',
         author: 'Pete Hill (Cicerone)',
         condition: 'Good',
@@ -21,6 +24,7 @@ const training = [
         retail: '$20'
     },
     {
+        link: '',
         title: 'Strength: Foundational Training for Rock Climbing',
         author: 'Steve Bechtel',
         condition: 'Great',
@@ -28,6 +32,7 @@ const training = [
         retail: '$25'
     },
     {
+        link: '',
         title: 'NOLS Wilderness Guide',
         author: 'Mark Harvey',
         condition: 'Great',
@@ -35,6 +40,7 @@ const training = [
         retail: '$15'
     },
     {
+        link: '',
         title: 'AMC Guide to Outdoor Leadership',
         author: 'Alex Kosseff',
         condition: 'Great',
@@ -42,6 +48,7 @@ const training = [
         retail: '$16'
     },
     {
+        link: '',
         title: 'Wildcare (Wilderness Medecine Textbook)',
         author: 'Franklin Hubbell (Solo)',
         condition: 'Great',
@@ -49,6 +56,7 @@ const training = [
         retail: '$100'
     },
     {
+        link: '',
         title: 'Fundamentals of Routesetting',
         author: 'Louie Anderson',
         condition: 'Great',
@@ -59,6 +67,7 @@ const training = [
 
 const literature = [
     {
+        link: '',
         title: 'The Boulder: A Philosophy for Bouldering',
         author: 'Francis Sanzaro',
         condition: 'Great',
@@ -66,6 +75,7 @@ const literature = [
         retail: '$17'
     },
     {
+        link: '',
         title: 'Tenzing Norgay and the Sherpas of Everest',
         author: 'Tashi Tenzing',
         condition: 'Great',
@@ -73,6 +83,7 @@ const literature = [
         retail: '$15'
     },
     {
+        link: '',
         title: 'The Beckoning Silence',
         author: 'Joe Simpson',
         condition: 'Great',
@@ -80,6 +91,7 @@ const literature = [
         retail: '$20'
     },
     {
+        link: '',
         title: 'True Summit',
         author: 'David Roberts',
         condition: 'Great',
@@ -91,6 +103,7 @@ const literature = [
 
 const guidebooks = [
     {
+        link: '',
         title: 'Smith Rock Select',
         author: 'Jonathan Thesenga',
         condition: 'Good',
@@ -98,6 +111,7 @@ const guidebooks = [
         retail: '$20'
     },
     {
+        link: '',
         title: 'Fontainebleau Climbs: The Finest Bouldering & Cicruits (2nd Edition)',
         author: 'Montchausse & Godoffe',
         condition: 'Great',
@@ -105,6 +119,7 @@ const guidebooks = [
         retail: '$30'
     },
     {
+        link: '',
         title: 'The Mont Blanc Range: Classic Snow, Ice, and Mixed Climbs',
         author: 'Jean Laroche & Florence Lelong',
         condition: 'Great',
@@ -112,6 +127,7 @@ const guidebooks = [
         retail: '$25'
     },
     {
+        link: '',
         title: 'Mont-Blanc: Easy Ascents & Glacier Hikes',
         author: 'Francois Burnier, Potard',
         condition: 'Good',
@@ -119,6 +135,7 @@ const guidebooks = [
         retail: '$34'
     },
     {
+        link: '',
         title: 'Mont Blanc (4810m): 5 routes to the summit',
         author: 'Francois Damilano',
         condition: 'Good',
@@ -126,6 +143,7 @@ const guidebooks = [
         retail: '$20'
     },
     {
+        link: '',
         title: 'Mont Blanc Massif (Volume 1): Selected Climbs',
         author: 'Lindsay Griffin',
         condition: 'Great',
@@ -133,6 +151,7 @@ const guidebooks = [
         retail: '$20'
     },
     {
+        link: '',
         title: 'Mont Blanc Massif (Volume 2): Selected Climbs',
         author: 'Lindsay Griffin',
         condition: 'Great',
@@ -140,6 +159,7 @@ const guidebooks = [
         retail: '$20'
     },
     {
+        link: '',
         title: 'Tour of Mont Blanc(Cicerone) -- This is a hiking guide of the TMB',
         author: 'Kev Reynolds',
         condition: 'Great',

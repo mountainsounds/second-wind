@@ -1,13 +1,13 @@
 
 const CardContent = ({ cardData }) => {
-    const { name, info, condition, notes, salePrice, retailPrice } = cardData;
+    const { name, link, info, condition, notes, salePrice, retailPrice } = cardData;
     return (
         <div className="card-content">
             <div className="content">
-                <h4>{name}</h4>
-                <p>Info: {info}</p>
+                <a href={link} target='_blank' ><h4>{name}</h4></a>
+                {info && <p>Info: {info}</p>}
                 <p>Condition: {condition}</p>
-                <p>Notes: {notes}</p>
+                {notes && <p>Notes: {notes}</p>}
                 <div className='priceContainer'>
                     <span>Sale: {salePrice}</span>
                     <span>Retail: <s>{retailPrice}</s></span>

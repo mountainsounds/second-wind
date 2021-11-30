@@ -23,6 +23,7 @@ import verglas from '@/public/winter/verglas.jpeg';
 const winterItems = [
     {
         image: boots,
+        link: '',
         name: 'La Sportiva: Nepal Cube GTX',
         info: 'Mens, Size 47.',
         condition: 'New.',
@@ -33,6 +34,7 @@ const winterItems = [
 
     {
         image: highcamp,
+        link: '',
         name: 'Outdoor Research: Highcamp Mitts',
         info: 'Mens, size medium.',
         condition: 'Great.',
@@ -42,6 +44,7 @@ const winterItems = [
     },
     {
         image: atSL,
+        link: '',
         name: 'Arc Teryx: Phase SL Base Layer',
         info: 'Lightweight bottom base layer. Size large.',
         condition: 'Great',
@@ -51,6 +54,7 @@ const winterItems = [
     },
     {
         image: atAR,
+        link: '',
         name: 'Arc Teryx: Phase AR Base Layer',
         info: 'Moderate weight base layer. Size large.',
         condition: 'Great.',
@@ -60,6 +64,7 @@ const winterItems = [
     },
     {
         image: rockyMountain,
+        link: '',
         name: 'OR: Rocky Mountain Low Gaiters',
         info: 'Size Large / XL',
         condition: 'Good / great.',
@@ -69,6 +74,7 @@ const winterItems = [
     },
     {
         image: verglas,
+        link: '',
         name: 'OR: Verglas Gaiters',
         info: 'Size small.',
         condition: 'Good / great.',
@@ -78,6 +84,7 @@ const winterItems = [
     },
     {
         image: crocodile,
+        link: '',
         name: 'OR: Crocodile Gaiters',
         info: 'Mens, size large.',
         condition: 'Good / great.',
@@ -87,6 +94,7 @@ const winterItems = [
     },
     {
         image: orHat,
+        link: '',
         name: 'OR: Wind Stopper Hat',
         info: 'Size large.',
         condition: 'Good',
@@ -96,6 +104,7 @@ const winterItems = [
     },
     {
         image: balaclava,
+        link: '',
         name: 'OR: Thin Balaclava',
         info: 'Size large',
         condition: 'Good',
@@ -105,6 +114,7 @@ const winterItems = [
     },
     {
         image: atHardShell,
+        link: '',
         name: 'Arc Teryx: Alpha FL Jacket',
         info: 'Goretex Alpine Shell Jacket. Size large.',
         condition: 'Good / great',
@@ -114,6 +124,7 @@ const winterItems = [
     },
     {
         image: arcTeryxSoftShell,
+        link: '',
         name: 'Arc Teryx: Sigma SL Jacket',
         info: 'Alpine or multi-pitch rock, softshell jacket. Size large.',
         condition: 'Good / great',
@@ -123,6 +134,7 @@ const winterItems = [
     },
     {
         image: mammutSoftShell,
+        link: '',
         name: 'Mammut: Nordpfeiler Jacket',
         info: 'Alpine / Ice Climbing softshell jacket. Size large.',
         condition: 'Great.',
@@ -132,6 +144,7 @@ const winterItems = [
     },
     {
         image: skiHelmet,
+        link: '',
         name: 'Giro: Jackson MIPS Ski Helmet',
         info: 'Adult, large ski helmet (2019).',
         condition: 'Great.',
@@ -141,6 +154,7 @@ const winterItems = [
     },
     {
         image: skiBoots,
+        link: '',
         name: 'Head: Edge LYT 100 Ski Boots',
         info: 'Black / Red color, size 28.5. My street shoe size is 13.',
         condition: 'Great.',
@@ -150,6 +164,7 @@ const winterItems = [
     },
     {
         image: mhPuffy,
+        link: '',
         name: 'Mountain Hardwear: Phantom Puffy',
         info: 'Hooded, down winter belay jacket. Size large.',
         condition: 'Good',
@@ -160,6 +175,7 @@ const winterItems = [
     },
     {
         image: marmotSleepingBag,
+        link: '',
         name: 'Marmot: Plasma Sleeping Bag',
         info: '40 degree sleeping bag.',
         condition: 'Great',

@@ -13,10 +13,12 @@ import tibloc from '@/public/rock/tibloc.jpeg';
 import trangoKnife from '@/public/rock/trangoKnife.jpeg';
 import tricams from '@/public/rock/tricams.jpeg';
 import sportivaRock from '@/public/rock/sportivaRock.jpeg';
+import petzlCarabiner from '@/public/rock/petzlCarabiner.jpeg';
 
 const rockItems = [
     {
         image: atcGuide,
+        link: '',
         name: 'Black Diamond: ATC Guide',
         info: 'Green',
         condition: 'Good',
@@ -26,6 +28,7 @@ const rockItems = [
     },
     {
         image: sportivaShoes,
+        link: '',
         name: 'La Sportiva: TX3 Approach Shoes',
         info: 'Mens, 13.5.',
         condition: 'New.',
@@ -36,6 +39,7 @@ const rockItems = [
 
     {
         image: dmm,
+        link: '',
         name: 'DMM: Phantom Carabiner',
         info: 'Locking, screwgate carabiner.',
         condition: 'Good.',
@@ -45,102 +49,123 @@ const rockItems = [
     },
     {
         image: metoliousCams,
+        link: '',
         name: 'Metolious: Ultralight Master Cam',
-        info: 'Purple, size #0.',
+        info: '1 size #00 and 1 #0',
         condition: 'Great',
         notes: 'Used around 10x or less.',
-        salePrice: '$30',
+        salePrice: '$30 each',
         retailPrice: '$60'
     },
     {
         image: bdCams,
-        name: '',
-        info: '',
-        condition: '',
+        link: '',
+        name: 'Black Diamond: Ultralight Camalots',
+        info: "2 #2's, 1 #1, 2 # .75's",
+        condition: 'Good',
         notes: '',
-        salePrice: '',
-        retailPrice: ''
+        salePrice: '$50 / each',
+        retailPrice: '$110 - $120'
     },
     {
         image: eldelridCarabiner,
-        name: '',
-        info: '',
-        condition: '',
+        link: '',
+        name: 'Edelrid Nineteen G',
+        info: 'Quantity: 13, assorted colors',
+        condition: 'Good',
+        notes: 'The lightest carabiner in the world.',
+        salePrice: '$5 each',
+        retailPrice: '$12 each'
+    },
+    {
+        image: petzlCarabiner,
+        link: '',
+        name: "Petzl Sm'D",
+        info: 'Lightweight, D-shaped lockiing carabiner',
+        condition: 'Good',
         notes: '',
-        salePrice: '',
-        retailPrice: ''
+        salePrice: '$7 each',
+        retailPrice: '$18 each'
     },
     {
         image: grindstone,
-        name: '',
-        info: '',
-        condition: '',
-        notes: '',
-        salePrice: '',
-        retailPrice: ''
+        link: '',
+        name: 'Tension Grindstone Hangboard',
+        info: 'Original version.',
+        condition: 'Good',
+        notes: 'Comes with Metolious backboard ($20)',
+        salePrice: '$70',
+        retailPrice: '$150'
     },
     {
         image: grivelPlume,
-        name: '',
-        info: '',
-        condition: '',
-        notes: '',
-        salePrice: '',
-        retailPrice: ''
+        link: '',
+        name: 'Grivel Plume Nut K3N',
+        info: 'Quantity: 4',
+        condition: 'Great',
+        notes: '37g, lightest locking carabiner in the world.',
+        salePrice: '$7',
+        retailPrice: '$14'
     },
     {
         image: metoliousCamMed,
-        name: '',
-        info: '',
-        condition: '',
+        link: '',
+        name: 'Metolious: Ultralight Master Cam',
+        info: '1 size #2 and 1 #3',
+        condition: 'Good',
         notes: '',
-        salePrice: '',
-        retailPrice: ''
+        salePrice: '$30 each',
+        retailPrice: '$60'
     },
     {
         image: nutTool,
-        name: '',
+        link: '',
+        name: 'Metolious Torque Nut Tool',
         info: '',
-        condition: '',
+        condition: 'Good',
         notes: '',
-        salePrice: '',
-        retailPrice: ''
+        salePrice: '$5',
+        retailPrice: '$15'
     },
     {
         image: tibloc,
-        name: '',
-        info: '',
-        condition: '',
-        notes: '',
-        salePrice: '',
-        retailPrice: ''
+        link: '',
+        name: 'TIBLOC',
+        info: 'Ultra-light emergency ascender',
+        condition: 'Great / like new',
+        notes: 'Original version',
+        salePrice: '$20',
+        retailPrice: '$45'
     },
     {
         image: trangoKnife,
-        name: '',
-        info: '',
-        condition: '',
+        link: '',
+        name: 'Trango Piranha Knife',
+        info: 'Ultra-light emergency knife',
+        condition: 'Great / like new',
         notes: '',
-        salePrice: '',
-        retailPrice: ''
+        salePrice: '$10',
+        retailPrice: '$20'
     },
     {
         image: tricams,
-        name: '',
+        link: '',
+        name: 'Assorted nuts and tricams with carabiner',
         info: '',
-        condition: '',
+        condition: 'Good',
         notes: '',
-        salePrice: '',
-        retailPrice: ''
+        salePrice: '$25',
+        retailPrice: '$70ish'
     },
     {
         image: sportivaRock,
-        name: '',
-        info: '',
-        condition: '',
+        link: '',
+        name: 'La Sportiva Tarantulace',
+        info: 'Size: 44.5 (US: 11)',
+        condition: 'Great',
         notes: '',
-        salePrice: '',
-        retailPrice: ''
+        salePrice: '$40',
+        retailPrice: '$85'
     }
 ]
 
