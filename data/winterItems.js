@@ -8,17 +8,15 @@ import crocodile from '@/public/winter/crocodile.jpeg';
 import highcamp from '@/public/winter/highcamp.jpeg';
 import mammutSoftShell from '@/public/winter/mammutSoftShell.jpeg';
 import marmotSleepingBag from '@/public/winter/marmotSleepingBag.jpeg';
+import mh30 from '@/public/winter/mh30.jpg';
 import mhPuffy from '@/public/winter/mhPuffy.jpeg';
 import orHat from '@/public/winter/orHat.jpeg';
-import pl400 from '@/public/winter/pl400.jpeg';
+import orPants from '@/public/winter/orPants.jpg';
 import rockyMountain from '@/public/winter/rockyMountain.jpeg';
 import skiBoots from '@/public/winter/skiBoots.jpeg';
 import skiHelmet from '@/public/winter/skiHelmet.jpeg';
 import verglas from '@/public/winter/verglas.jpeg';
-
-
-
-
+import trekking from '@/public/winter/trekking.jpg';
 
 const winterItems = [
     {
@@ -143,6 +141,16 @@ const winterItems = [
         retailPrice: '$350'
     },
     {
+        image: orPants,
+        link: 'https://www.outdoorresearch.com/us/womens-cirque-ii-pants-271433',
+        name: 'Outdoor Research Womens Cirque Pants',
+        info: 'Softshell pants, size Small. ',
+        condition: 'Great, like new.',
+        notes: '',
+        salePrice: '$75',
+        retailPrice: '$150'
+    },
+    {
         image: skiHelmet,
         link: '',
         name: 'Giro: Jackson MIPS Ski Helmet',
@@ -182,6 +190,26 @@ const winterItems = [
         notes: 'Mostly used for van camping.',
         salePrice: '$150',
         retailPrice: '$400'
+    },
+    {
+        image: mh30,
+        link: 'https://www.mountainhardwear.com/p/phantom-30f%2F-1c-reg-1829401.html?dwvar_1829401_color=675&pos=5',
+        name: 'Mountain Hardware Phantom 32F',
+        info: '32 degree, older model sleeping bag',
+        condition: 'Great',
+        notes: 'Mostly used for van camping.',
+        salePrice: '$150',
+        retailPrice: '$400'
+    },
+    {
+        image: trekking,
+        link: 'https://www.blackdiamondequipment.com/en_US/product/alpine-carbon-z-trekking-poles/',
+        name: 'Black Diamond Alpine Carbon Z Trekking Poles',
+        info: '130cm',
+        condition: 'Great, like new',
+        notes: '',
+        salePrice: '$100',
+        retailPrice: '$200'
     },
 
 
