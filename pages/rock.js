@@ -11,7 +11,7 @@ export default function Rock() {
         <section id='rockPage' className='hero is-info' >
             <Nav />
             <div className="cardListContainer is-flex">
-                {rockItems.map(data => <Card data={data} />)}
+                {rockItems.map((data, i) => <Card key={i} data={data} />)}
             </div>
         </section >
     )

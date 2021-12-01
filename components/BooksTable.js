@@ -17,16 +17,16 @@ const BooksTable = () => {
                 <tr className='is-selected'>
                     <td colSpan='5'>Instructional & Training</td>
                 </tr>
-                {training.map(data => <BookRow data={data} />)}
+                {training.map((data, i) => <BookRow key={i} data={data} />)}
 
                 <tr className='is-selected'>
                     <td colSpan='5'>Climbing & Mountaineering Literature</td>
                 </tr>
-                {literature.map(data => <BookRow data={data} />)}
+                {literature.map((data, i) => <BookRow key={i} data={data} />)}
                 <tr className='is-selected'>
                     <td colSpan='5'>Guidebooks</td>
                 </tr>
-                {guidebooks.map(data => <BookRow data={data} />)}
+                {guidebooks.map((data, i) => <BookRow key={i} data={data} />)}
             </tbody>
         </table>
     )

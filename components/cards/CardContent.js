@@ -4,7 +4,7 @@ const CardContent = ({ cardData }) => {
     return (
         <div className="card-content">
             <div className="content">
-                <a href={link} target='_blank' ><h4>{name}</h4></a>
+                <a href={link} target='_blank' rel="noreferrer" ><h4>{name}</h4></a>
                 {info && <p>Info: {info}</p>}
                 <p>Condition: {condition}</p>
                 {notes && <p>Notes: {notes}</p>}

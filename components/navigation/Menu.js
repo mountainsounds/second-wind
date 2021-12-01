@@ -11,7 +11,7 @@ const Menu = ({ isMenuOpen, setIsMenuOpen }) => {
     return (
         <div id="navbarMenu" className={clsx('navbar-menu', isMenuOpen && 'is-active')}>
             <div className="navbar-end">
-                {navItems.map(itemInfo => <NavItem itemInfo={itemInfo} />)}
+                {navItems.map((itemInfo, i) => <NavItem key={i} itemInfo={itemInfo} />)}
             </div>
         </div>
     )

@@ -8,7 +8,7 @@ export default function Winter() {
         <section id='winterPage' className="hero is-info">
             <Nav />
             <div className="cardListContainer is-flex">
-                {winterItems.map(data => <Card data={data} />)}
+                {winterItems.map((data, i) => <Card key={i} data={data} />)}
             </div>
         </section >
     )
