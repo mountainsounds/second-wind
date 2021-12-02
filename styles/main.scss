@@ -43,7 +43,7 @@ html,body {
     box-shadow: none;
 }
 
-#welcomeInfo {
+#welcomeInfo, #vanInfo {
     background-color: whitesmoke;
     border-radius: 10px;
     .title, .subtitle {
@@ -51,6 +51,10 @@ html,body {
         font-size: 1.5em;
         
     }
+}
+
+#vanInfo {
+  color: black
 }
 
 .cardListContainer {
