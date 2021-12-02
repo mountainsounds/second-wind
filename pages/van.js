@@ -11,9 +11,14 @@ export default function Van() {
                 <div className="container has-text-centered">
                     <div id='vanInfo' className="">
                         <h1 className="title"> 2019 Ford Transit Connect </h1>
-                        <p>In addition to the gear I am selling a simply, but functionally converted cargo van. <br>
-                        </br> Smaller than a sprinter, it is a great size for everyday driving, as well as weekend and multi-week trips.  </p>
-                        <p>It has spent all but the last few months in Southern California so rust free.</p>
+                        <p>A much beloved converted cargo van with an eye to minimalism and function.
+                            Smaller than a sprinter, it is a great size for everyday driving,
+                            as well as weekend and multi-week trips.</p>
+                        <p>It has spent all but the last few months in Southern California so rust free.
+                            Please see the above window sticker for all the original specs.</p>
+                        <br></br><br></br>
+                        <h3><b>Additional info:</b></h3>
+
 
                     </div>
                 </div>
