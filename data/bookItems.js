@@ -24,14 +24,6 @@ const training = [
         retail: '$20'
     },
     {
-        link: 'https://www.amazon.com/Climb-Strong-Strength-Foundational-Training/dp/1495201538',
-        title: 'Strength: Foundational Training for Rock Climbing',
-        author: 'Steve Bechtel',
-        condition: 'Great',
-        sale: '$5',
-        retail: '$25'
-    },
-    {
         link: 'https://www.amazon.com/National-Outdoor-Leadership-Schools-Wilderness/dp/0684859092',
         title: 'NOLS Wilderness Guide',
         author: 'Mark Harvey',
@@ -102,14 +94,6 @@ const literature = [
 ]
 
 const guidebooks = [
-    {
-        link: 'https://www.amazon.com/Smith-Rock-Select-Jonathan-Thesenga/dp/0979264499',
-        title: 'Smith Rock Select',
-        author: 'Jonathan Thesenga',
-        condition: 'Good',
-        sale: '$10',
-        retail: '$20'
-    },
     {
         link: 'https://www.amazon.com/Fontainebleau-Climbs-Bouldering-Montchausse-Francoise/dp/B00CB5EJ3G',
         title: 'Fontainebleau Climbs: The Finest Bouldering & Cicruits (2nd Edition)',

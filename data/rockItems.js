@@ -1,5 +1,4 @@
 import atcGuide from '@/public/rock/atcGuide.jpeg';
-import dmm from '@/public/rock/dmm.jpeg';
 import metoliousCams from '@/public/rock/metoliousCams.jpeg';
 import sportivaShoes from '@/public/rock/sportivaShoes.jpeg';
 
@@ -36,17 +35,6 @@ const rockItems = [
         salePrice: '$60',
         retailPrice: '$135'
     },
-
-    {
-        image: dmm,
-        link: 'https://dmmwales.com/climbing-products/locking-carabiners/phantom-1',
-        name: 'DMM: Phantom Carabiner',
-        info: 'Locking, screwgate carabiner.',
-        condition: 'Good.',
-        notes: 'Only cosmetic wear, - an older model.',
-        salePrice: '$5',
-        retailPrice: '$15'
-    },
     {
         image: metoliousCams,
         link: 'https://www.metoliusclimbing.com/ultralight-master-cam.html',
@@ -81,9 +69,9 @@ const rockItems = [
         image: petzlCarabiner,
         link: 'https://www.petzl.com/US/en/Sport/Carabiners-And-Quickdraws/Sm-D-(US)',
         name: "Petzl Sm'D",
-        info: 'Lightweight, D-shaped lockiing carabiner',
+        info: 'Quantity: 4.',
         condition: 'Good',
-        notes: '',
+        notes: 'Lightweight, D-shaped lockiing carabiner',
         salePrice: '$7 each',
         retailPrice: '$18 each'
     },
