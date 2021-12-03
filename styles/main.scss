@@ -54,7 +54,13 @@ html,body {
 }
 
 #vanInfo {
-  color: black
+  color: black;
+  padding: 10px;
+  
+  h2 {
+    margin-bottom: 10px;
+    color: green;
+  }
 }
 
 .cardListContainer {
