@@ -17,13 +17,13 @@ import vanInt7 from '@/public/vanInterior/vanInt7.jpg';
 const vanPhotos = [
     {
         page: 'van',
-        image: vanExt1,
+        image: vanExt2,
         title: '',
         info: ''
     },
     {
         page: 'van',
-        image: vanExt2,
+        image: vanExt1,
         title: '',
         info: ''
     },
@@ -32,25 +32,6 @@ const vanPhotos = [
         image: vanExt3,
         title: '',
         info: ''
-    },
-
-    {
-        page: 'van',
-        image: fridge1,
-        title: 'Dometic Fridge',
-        info: 'A photo of the fridge'
-    },
-    {
-        page: 'van',
-        image: fridge3,
-        title: 'Dometic Fridge',
-        info: 'A photo of the fridge'
-    },
-    {
-        page: 'van',
-        image: vanInt1,
-        title: '',
-        info: 'Storage compartments have been designed to allocate airflow space for fridge and battery packs.'
     },
     {
         page: 'van',
@@ -66,6 +47,12 @@ const vanPhotos = [
     },
     {
         page: 'van',
+        image: vanInt7,
+        title: '',
+        info: '1 inch insulation on ceiling, walls, and on removeable window coverings.'
+    },
+    {
+        page: 'van',
         image: vanInt4,
         title: '',
         info: 'Simple solution for multi-tiered storage and / or sleeping.'
@@ -78,16 +65,29 @@ const vanPhotos = [
     },
     {
         page: 'van',
+        image: vanInt1,
+        title: '',
+        info: 'Storage compartments have been designed to allocate airflow space for fridge and battery packs.'
+    },
+    {
+        page: 'van',
         image: vanInt6,
         title: '',
         info: 'Lower cutout for fridge, located behind seat provides airflow, greater safety, and ventilation.'
     },
     {
         page: 'van',
-        image: vanInt7,
-        title: 'van-interior-7',
-        info: '1 inch insulation on ceiling, walls, and on removeable window coverings.'
+        image: fridge1,
+        title: 'Dometic CFX3 55IM',
+        info: 'Goal Zero batter pack can power it at refrigeration temps for about a week without recharging.'
     },
+    {
+        page: 'van',
+        image: fridge3,
+        title: '',
+        info: 'Includes insulated cover for greater efficiency.'
+    },
+
 ]
 
 export default vanPhotos;
