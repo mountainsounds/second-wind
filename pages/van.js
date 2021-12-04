@@ -32,7 +32,7 @@ export default function Van() {
                 </div>
             </div>
             <div className="cardListContainer is-flex">
-                {vanPhotos.map((data, id) => <Card data={data} id={id} />)}
+                {vanPhotos.map((data, id) => <Card data={data} key={id} />)}
             </div>
 
         </section >
