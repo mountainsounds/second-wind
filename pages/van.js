@@ -1,6 +1,8 @@
 import Nav from '@/components/navigation/Nav';
 import vanPhotos from '@/data/vanInfo';
 import Card from '@/components/cards/Card';
+import vanSticker from '@/public/vanSticker.jpg';
+import Image from 'next/image';
 
 export default function Van() {
 
@@ -16,7 +18,7 @@ export default function Van() {
                             Smaller than a sprinter, it is a great size for everyday driving,
                             as well as weekend and multi-week trips. The price includes all the additional ammenties listed below. </p>
                         <p>It has spent all but the last few months in Southern California so rust free.
-                            Please see the above window sticker for all the original specs.</p>
+                            Please see the window sticker for all the original specs.</p>
                         <br></br><br></br>
                         <h3><b>Additional info & features:</b></h3>
                         <p>Mileage: 37,000</p>
@@ -30,6 +32,12 @@ export default function Van() {
 
                     </div>
                 </div>
+            </div>
+            <div id='windowSticker'>
+                <Image
+                    src={vanSticker}
+                    alt='window sticker for van'
+                />
             </div>
             <div className="cardListContainer is-flex">
                 {vanPhotos.map((data, id) => <Card data={data} key={id} />)}
