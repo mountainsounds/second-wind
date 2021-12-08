@@ -1,6 +1,7 @@
 import vanExt1 from '@/public/vanExterior/vanExt1.jpg';
 import vanExt2 from '@/public/vanExterior/vanExt2.jpg';
 import vanExt3 from '@/public/vanExterior/vanExt3.jpg';
+import vanFront from '@/public/vanExterior/vanFront.jpg'
 
 import fridge1 from '@/public/vanInterior/fridge1.jpg';
 import fridge3 from '@/public/vanInterior/fridge3.jpg';
@@ -12,6 +13,9 @@ import vanInt4 from '@/public/vanInterior/vanInt4.jpg';
 import vanInt5 from '@/public/vanInterior/vanInt5.jpg';
 import vanInt6 from '@/public/vanInterior/vanInt6.jpg';
 import vanInt7 from '@/public/vanInterior/vanInt7.jpg';
+import vanFrontInterior from '@/public/vanInterior/vanFrontInterior.jpg';
+
+
 
 
 const vanPhotos = [
@@ -30,6 +34,18 @@ const vanPhotos = [
     {
         page: 'van',
         image: vanExt3,
+        title: '',
+        info: ''
+    },
+    {
+        page: 'van',
+        image: vanFront,
+        title: '',
+        info: ''
+    },
+    {
+        page: 'van',
+        image: vanFrontInterior,
         title: '',
         info: ''
     },
