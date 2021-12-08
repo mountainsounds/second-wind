@@ -6,14 +6,14 @@ import vanFront from '@/public/vanExterior/vanFront.jpg'
 import fridge1 from '@/public/vanInterior/fridge1.JPG';
 import fridge3 from '@/public/vanInterior/fridge3.JPG';
 
-import vanInt1 from '@/public/vanInterior/vanInt1.jpg';
-import vanInt2 from '@/public/vanInterior/vanInt2.jpg';
-import vanInt3 from '@/public/vanInterior/vanInt3.jpg';
-import vanInt4 from '@/public/vanInterior/vanInt4.jpg';
-import vanInt5 from '@/public/vanInterior/vanInt5.jpg';
-import vanInt6 from '@/public/vanInterior/vanInt6.jpg';
-import vanInt7 from '@/public/vanInterior/vanInt7.jpg';
-import vanFrontInterior from '@/public/vanInterior/vanFrontInterior.jpg';
+import vanInt1 from '@/public/vanInterior/vanInt1.JPG';
+import vanInt2 from '@/public/vanInterior/vanInt2.JPG';
+import vanInt3 from '@/public/vanInterior/vanInt3.JPG';
+import vanInt4 from '@/public/vanInterior/vanInt4.JPG';
+import vanInt5 from '@/public/vanInterior/vanInt5.JPG';
+import vanInt6 from '@/public/vanInterior/vanInt6.JPG';
+import vanInt7 from '@/public/vanInterior/vanInt7.JPG';
+import vanFrontInterior from '@/public/vanInterior/vanFrontInterior.JPG';
 
 
 
