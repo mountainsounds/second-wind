@@ -1,6 +1,6 @@
 import Nav from '@/components/navigation/Nav';
 import BooksTable from 'components/BooksTable';
-import books from '@/public/books.jpg';
+import books from '@/public/books.JPG';
 import Image from 'next/image';
 export default function Books() {
 

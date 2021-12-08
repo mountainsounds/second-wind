@@ -7,15 +7,15 @@ import crocodile from '@/public/winter/crocodile.jpg';
 import highcamp from '@/public/winter/highcamp.jpg';
 import mammutSoftShell from '@/public/winter/mammutSoftShell.jpeg';
 import marmotSleepingBag from '@/public/winter/marmotSleepingBag.jpeg';
-import mh30 from '@/public/winter/mh30.jpg';
+import mh30 from '@/public/winter/mh30.JPG';
 import mhPuffy from '@/public/winter/mhPuffy.jpeg';
 import orHat from '@/public/winter/orHat.jpg';
-import orPants from '@/public/winter/orPants.jpg';
+import orPants from '@/public/winter/orPants.JPG';
 import rockyMountain from '@/public/winter/rockyMountain.jpg';
 import skiBoots from '@/public/winter/skiBoots.jpeg';
 import skiHelmet from '@/public/winter/skiHelmet.jpeg';
 import verglas from '@/public/winter/verglas.jpg';
-import trekking from '@/public/winter/trekking.jpg';
+import trekking from '@/public/winter/trekking.JPG';
 
 const winterItems = [
     {
