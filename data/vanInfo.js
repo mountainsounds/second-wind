@@ -1,10 +1,10 @@
-import vanExt1 from '@/public/vanExterior/vanExt1.jpg';
-import vanExt2 from '@/public/vanExterior/vanExt2.jpg';
-import vanExt3 from '@/public/vanExterior/vanExt3.jpg';
+import vanExt1 from '@/public/vanExterior/vanExt1.JPG';
+import vanExt2 from '@/public/vanExterior/vanExt2.JPG';
+import vanExt3 from '@/public/vanExterior/vanExt3.JPG';
 import vanFront from '@/public/vanExterior/vanFront.jpg'
 
-import fridge1 from '@/public/vanInterior/fridge1.jpg';
-import fridge3 from '@/public/vanInterior/fridge3.jpg';
+import fridge1 from '@/public/vanInterior/fridge1.JPG';
+import fridge3 from '@/public/vanInterior/fridge3.JPG';
 
 import vanInt1 from '@/public/vanInterior/vanInt1.jpg';
 import vanInt2 from '@/public/vanInterior/vanInt2.jpg';
