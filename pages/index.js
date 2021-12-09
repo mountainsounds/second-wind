@@ -1,5 +1,4 @@
 import Nav from '@/components/navigation/Nav';
-
 export default function Home() {
 
   return (
@@ -12,9 +11,8 @@ export default function Home() {
             <h1 className="title"> Welcome </h1>
             <h2 className="subtitle"> My name is Zack! I am a climber currently living in Boston. </h2>
             <h2 className="subtitle"> I am selling gear, including an outfitted Ford Transit Connect! </h2>
-            <h2 className="subtitle"> I hope you enjoy exploring the site and contact me with any technical issues.</h2>
+            <h2 className="subtitle"> I hope you enjoy exploring the site, and please contact me with any technical issues.</h2>
             <h2 className="subtitle"> I can be reached at mountainsounds15@gmail.com</h2>
-
           </div>
         </div>
       </div>

@@ -111,3 +111,16 @@ html,body {
   }
 }
 
+
+.content, td {
+  .link {
+    cursor: pointer;
+    color: #088F8F;
+    
+    &:hover {
+      	color: #0096FF;
+    }
+  }
+}
+
+
