@@ -7,14 +7,14 @@ export default function Books() {
     return (
         <section id='booksPage' className="hero is-info">
             <Nav />
-            <section className="container">
+            <div className="container">
                 <Image
                     src={books}
                     alt='books on a shelf'
                     layout='responsive'
                 />
                 <BooksTable />
-            </section>
+            </div>
         </section >
     )
 }

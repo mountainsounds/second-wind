@@ -1,0 +1,22 @@
+
+@media (max-width: 500px) {
+    body {
+        font-size: 80%;    
+    }
+    
+    #booksPage {
+        font-size: 90%;
+    }
+    
+    .cardListContainer .card {
+        max-width: 90%;
+        
+        .card-content {
+            padding: 10px;
+        }
+    }
+    
+    #vanPage .cardListContainer .card {
+        max-width: 70%;
+    }
+}
