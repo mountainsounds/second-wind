@@ -26,7 +26,7 @@ export default function Van() {
                         <p>Goal Zero Battery: This powers the fridge and any other small electronics. It can be charged both from a home outlet as well as the car while driving.</p>
                         <p>Insulation: 1 inch in strategic location in cargo area including ceiling, sides, and on removeable window coverings.</p>
                         <p>Weather tech side window deflectors: $120 retail value. </p>
-                        <p>Weather tech front wiindshield SunShade: $60.</p>
+                        <p>Weather tech front windshield SunShade: $60.</p>
                         <p>Therm-a-rest LuxuryMap Sleeping Pad: $190.</p>
 
 
