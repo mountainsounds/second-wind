@@ -21,7 +21,7 @@ export default function Van() {
                             Please see the window sticker for all the original specs.</p>
                         <br></br><br></br>
                         <h3><b>Additional info & features:</b></h3>
-                        <p>Mileage: 37,000</p>
+                        <p>Mileage: 37,500</p>
                         <p>Dometic CFX3 55IM: A powered cooler / fridge (retail value: $1200), includes an insulated cover ($100). </p>
                         <p>Goal Zero Battery: This powers the fridge and any other small electronics. It can be charged both from a home outlet as well as the car while driving.</p>
                         <p>Insulation: 1 inch in strategic location in cargo area including ceiling, sides, and on removeable window coverings.</p>
