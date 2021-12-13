@@ -123,4 +123,24 @@ html,body {
   }
 }
 
+.sold {
+  opacity: .5;
+  
+  &::after {
+    content: 'SOLD / ON HOLD';  
+    position: absolute;
+    text-align: center;
+    top: 100px;
+    right: 40px;
+    color: black;
+    font-size: 2em;
+    font-weight: 800;
+  }
+  
+}
+
+.bookSold {
+  text-decoration: black solid line-through;
+}
+
 

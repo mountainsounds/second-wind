@@ -4,10 +4,10 @@ import { useState } from "react";
 import VanCardContent from "./VanCardContent";
 
 const Card = ({ data }) => {
-    const { image, page, ...cardData } = data;
+    const { image, status, page, ...cardData } = data;
     return (
         <div className='cardWrapper'>
-            < div className="card" >
+            < div className={`card ${status ? 'sold' : ''}`} >
                 <CardImage image={image} />
                 {page === 'van' ? <VanCardContent cardData={cardData} /> :
                     <CardContent cardData={cardData} />}

@@ -108,7 +108,8 @@ const guidebooks = [
         author: 'Jean Laroche & Florence Lelong',
         condition: 'Great',
         sale: '$10',
-        retail: '$25'
+        retail: '$25',
+        status: 'sold'
     },
     {
         link: 'https://www.needlesports.com/Catalogue/Books-Media/Guidebooks/France/Mont-Blanc-Easy-Ascents-and-Glacier-Hikes-COR-CE213',
@@ -116,7 +117,8 @@ const guidebooks = [
         author: 'Francois Burnier, Potard',
         condition: 'Good',
         sale: '$10',
-        retail: '$34'
+        retail: '$34',
+        status: 'sold'
     },
     {
         link: 'https://rockrun.com/products/mont-blanc-4810m-5-routes-to-the-summit',

@@ -43,7 +43,8 @@ const rockItems = [
         condition: 'Great',
         notes: 'Used around 10x or less.',
         salePrice: '$30 each',
-        retailPrice: '$60'
+        retailPrice: '$60',
+        status: 'sold'
     },
     {
         image: bdCams,
@@ -103,7 +104,8 @@ const rockItems = [
         condition: 'Good',
         notes: '',
         salePrice: '$30 each',
-        retailPrice: '$60'
+        retailPrice: '$60',
+        status: 'sold'
     },
     {
         image: nutTool,
