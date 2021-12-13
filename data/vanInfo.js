@@ -95,7 +95,7 @@ const vanPhotos = [
         page: 'van',
         image: fridge1,
         title: 'Dometic CFX3 55IM',
-        info: 'Goal Zero batter pack can power it at refrigeration temps for about a week without recharging.'
+        info: 'Goal Zero battery pack can power it at refrigeration temps for about a week without recharging.'
     },
     {
         page: 'van',
