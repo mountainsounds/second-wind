@@ -16,7 +16,8 @@ export default function Van() {
                         <h2 className="has-text-centered">Price: $27,000</h2>
                         <p>A much beloved converted cargo van with an eye to minimalism and function.
                             Smaller than a sprinter, it is a great size for everyday driving,
-                            as well as weekend and multi-week trips. The price includes all the additional ammenties listed below. </p>
+                            as well as weekend and multi-week trips. Size is XLT with long wheel base;
+                            I am 6ft and sleeping inside is roomy. The price includes all the additional ammenties listed below. </p>
                         <p>It has spent all but the last few months in Southern California so rust free.
                             Please see the window sticker for all the original specs.</p>
                         <br></br><br></br>
