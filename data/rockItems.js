@@ -26,16 +26,6 @@ const rockItems = [
         retailPrice: '$30'
     },
     {
-        image: sportivaShoes,
-        link: 'https://www.sportiva.com/tx3.html',
-        name: 'La Sportiva: TX3 Approach Shoes',
-        info: 'Mens, 13.5.',
-        condition: 'New.',
-        notes: 'Never worn.',
-        salePrice: '$60',
-        retailPrice: '$135'
-    },
-    {
         image: metoliousCams,
         link: 'https://www.metoliusclimbing.com/ultralight-master-cam.html',
         name: 'Metolious: Ultralight Master Cam',

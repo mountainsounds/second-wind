@@ -67,7 +67,8 @@ const winterItems = [
         condition: 'Good / great.',
         notes: '',
         salePrice: '$20',
-        retailPrice: '$40'
+        retailPrice: '$40',
+        status: 'sold'
     },
     {
         image: verglas,
@@ -87,7 +88,8 @@ const winterItems = [
         condition: 'Good / great.',
         notes: '',
         salePrice: '$40',
-        retailPrice: '$100'
+        retailPrice: '$100',
+        status: 'sold'
     },
     {
         image: orHat,

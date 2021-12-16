@@ -24,7 +24,7 @@ export default function Van() {
                         <h3><b>Additional info & features:</b></h3>
                         <p>Mileage: 37,500</p>
                         <p>Dometic CFX3 55IM: A powered cooler / fridge (retail value: $1200), includes an insulated cover ($100). </p>
-                        <p>Goal Zero Battery: This powers the fridge and any other small electronics. It can be charged both from a home outlet as well as the car while driving.</p>
+                        <p>Goal Zero Yeti Lithium 1000: This powers the fridge and any other small electronics ($1200). It can be charged both from a home outlet as well as the car while driving.</p>
                         <p>Insulation: 1 inch in strategic location in cargo area including ceiling, sides, and on removeable window coverings.</p>
                         <p>Weather tech side window deflectors: $120 retail value. </p>
                         <p>Weather tech front windshield SunShade: $60.</p>
