@@ -103,24 +103,6 @@ const guidebooks = [
         retail: '$30'
     },
     {
-        link: 'https://www.amazon.com/Mountaineering-Mont-Blanc-Range-Jean-Louis/dp/B014LM6CLI',
-        title: 'The Mont Blanc Range: Classic Snow, Ice, and Mixed Climbs',
-        author: 'Jean Laroche & Florence Lelong',
-        condition: 'Great',
-        sale: '$10',
-        retail: '$25',
-        status: 'sold'
-    },
-    {
-        link: 'https://www.needlesports.com/Catalogue/Books-Media/Guidebooks/France/Mont-Blanc-Easy-Ascents-and-Glacier-Hikes-COR-CE213',
-        title: 'Mont-Blanc: Easy Ascents & Glacier Hikes',
-        author: 'Francois Burnier, Potard',
-        condition: 'Good',
-        sale: '$10',
-        retail: '$34',
-        status: 'sold'
-    },
-    {
         link: 'https://rockrun.com/products/mont-blanc-4810m-5-routes-to-the-summit',
         title: 'Mont Blanc (4810m): 5 routes to the summit',
         author: 'Francois Damilano',

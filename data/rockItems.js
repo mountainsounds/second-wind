@@ -1,7 +1,5 @@
 import atcGuide from '@/public/rock/atcGuide.jpeg';
 import metoliousCams from '@/public/rock/metoliousCams.jpeg';
-import sportivaShoes from '@/public/rock/sportivaShoes.jpeg';
-
 import bdCams from '@/public/rock/bdCams.jpeg';
 import eldelridCarabiner from '@/public/rock/eldelridCarabiner.jpeg';
 import grindstone from '@/public/rock/grindstone.jpeg';

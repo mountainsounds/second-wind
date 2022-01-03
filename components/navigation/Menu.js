@@ -4,7 +4,7 @@ import NavItem from './NavItem';
 const navItems = [
     { link: '/', title: 'About' }, { link: '/rock', title: 'Rock' },
     { link: '/winter', title: 'Winter' }, { link: '/books', title: 'Books' },
-    { link: '/van', title: 'Van' }
+    { link: '/other', title: 'Other' }
 ]
 
 const Menu = ({ isMenuOpen, setIsMenuOpen }) => {
