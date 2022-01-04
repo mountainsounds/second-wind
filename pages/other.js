@@ -26,9 +26,3 @@ export default function Van() {
     )
 }
 
-/*
-    Dometic CFX3 55IM: A powered cooler / fridge (retail value: $1200),
-        includes an insulated cover ($100).
-    Goal Zero Yeti Lithium 1000
-    Weather tech front windshield SunShade: $60.
-*/
