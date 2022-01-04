@@ -1,5 +1,4 @@
 import Nav from '@/components/navigation/Nav';
-import { useState } from 'react';
 import Card from '@/components/cards/Card';
 import rockItems from '@/data/rockItems';
 

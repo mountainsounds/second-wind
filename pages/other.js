@@ -1,7 +1,6 @@
 import Nav from '@/components/navigation/Nav';
 import vanPhotos from '@/data/vanInfo';
 import Card from '@/components/cards/Card';
-import Image from 'next/image';
 
 export default function Van() {
 
