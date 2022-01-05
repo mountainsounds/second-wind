@@ -8,7 +8,6 @@ import metoliousCamMed from '@/public/rock/metoliousCamsMed.jpeg';
 import nutTool from '@/public/rock/nutTool.jpeg';
 import tibloc from '@/public/rock/tibloc.jpeg';
 import trangoKnife from '@/public/rock/trangoKnife.jpeg';
-import tricams from '@/public/rock/tricams.jpeg';
 import sportivaRock from '@/public/rock/sportivaRock.jpeg';
 import petzlCarabiner from '@/public/rock/petzlCarabiner.jpeg';
 
@@ -38,17 +37,17 @@ const rockItems = [
         image: bdCams,
         link: 'https://www.blackdiamondequipment.com/en_US/product/camalot-ultralight/',
         name: 'Black Diamond: Ultralight Camalots',
-        info: "2 #2's, 1 #1, 2 # .75's",
+        info: "2 #2's",
         condition: 'Good',
         notes: '',
         salePrice: '$50 / each',
-        retailPrice: '$110 - $120'
+        retailPrice: '$120'
     },
     {
         image: eldelridCarabiner,
         link: 'https://www.edelrid.de/en/sports/standard-carabiner/nineteen-g.html',
         name: 'Edelrid Nineteen G',
-        info: 'Quantity: 13, assorted colors',
+        info: 'Quantity: 11, assorted colors',
         condition: 'Good',
         notes: 'The lightest carabiner in the world.',
         salePrice: '$5 each',
@@ -62,7 +61,8 @@ const rockItems = [
         condition: 'Good',
         notes: 'Lightweight, D-shaped lockiing carabiner',
         salePrice: '$7 each',
-        retailPrice: '$18 each'
+        retailPrice: '$18 each',
+        status: 'sold'
     },
     {
         image: grindstone,
@@ -72,7 +72,8 @@ const rockItems = [
         condition: 'Good',
         notes: 'Comes with Metolious backboard ($20)',
         salePrice: '$70',
-        retailPrice: '$150'
+        retailPrice: '$150',
+        status: 'sold'
     },
     {
         image: grivelPlume,
@@ -124,16 +125,6 @@ const rockItems = [
         notes: '',
         salePrice: '$10',
         retailPrice: '$20'
-    },
-    {
-        image: tricams,
-        link: 'https://www.camp-usa.com/outdoor/product/rock-protection/tricam/',
-        name: 'Assorted nuts and tricams with carabiner',
-        info: '',
-        condition: 'Good',
-        notes: '',
-        salePrice: '$25',
-        retailPrice: '$70ish'
     },
     {
         image: sportivaRock,
