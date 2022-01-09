@@ -1,7 +1,5 @@
 import arcTeryxSoftShell from '@/public/winter/arcTeryxSoftShell.jpeg';
-import atAR from '@/public/winter/atAR.jpg';
 import atHardShell from '@/public/winter/atHardShell.jpeg';
-import atSL from '@/public/winter/atSL.jpg';
 import boots from '@/public/winter/boots.jpg';
 import crocodile from '@/public/winter/crocodile.jpg';
 import highcamp from '@/public/winter/highcamp.jpg';
@@ -10,7 +8,6 @@ import marmotSleepingBag from '@/public/winter/marmotSleepingBag.jpeg';
 import mh30 from '@/public/winter/mh30.JPG';
 import mhPuffy from '@/public/winter/mhPuffy.jpeg';
 import orHat from '@/public/winter/orHat.jpg';
-import orPants from '@/public/winter/orPants.JPG';
 import rockyMountain from '@/public/winter/rockyMountain.jpg';
 import skiBoots from '@/public/winter/skiBoots.jpeg';
 import skiHelmet from '@/public/winter/skiHelmet.jpeg';
@@ -38,26 +35,6 @@ const winterItems = [
         notes: 'Like new, maybe used a couple of times.',
         salePrice: '$40',
         retailPrice: '$95'
-    },
-    {
-        image: atSL,
-        link: 'https://www.usedgear.arcteryx.com/p/arcteryx-phase-sl-bottom-mens-mens/16257?condition=Excellent',
-        name: 'Arc Teryx: Phase SL Base Layer',
-        info: 'Lightweight bottom base layer. Size large.',
-        condition: 'Great',
-        notes: '',
-        salePrice: '$30',
-        retailPrice: '$75'
-    },
-    {
-        image: atAR,
-        link: 'https://www.rei.com/product/110620/arcteryx-phase-ar-long-underwear-bottoms-mens',
-        name: 'Arc Teryx: Phase AR Base Layer',
-        info: 'Moderate weight base layer. Size large.',
-        condition: 'Great.',
-        notes: '',
-        salePrice: '$30',
-        retailPrice: '$100ish'
     },
     {
         image: rockyMountain,
@@ -132,16 +109,6 @@ const winterItems = [
         retailPrice: '$350'
     },
     {
-        image: orPants,
-        link: 'https://www.outdoorresearch.com/us/womens-cirque-ii-pants-271433',
-        name: 'Outdoor Research Womens Cirque Pants',
-        info: 'Softshell pants, size Small. ',
-        condition: 'Great, like new.',
-        notes: '',
-        salePrice: '$75',
-        retailPrice: '$150'
-    },
-    {
         image: skiHelmet,
         link: 'https://www.giro.com/p/jackson-mips-snow-helmet/200000001600000049.html',
         name: 'Giro: Jackson MIPS Ski Helmet',
@@ -180,7 +147,8 @@ const winterItems = [
         condition: 'Great',
         notes: 'Mostly used for van camping.',
         salePrice: '$150',
-        retailPrice: '$400'
+        retailPrice: '$400',
+        status: 'sold'
     },
     {
         image: mh30,
@@ -190,7 +158,7 @@ const winterItems = [
         condition: 'Great',
         notes: 'Mostly used for van camping.',
         salePrice: '$150',
-        retailPrice: '$400'
+        retailPrice: '$400',
     },
     {
         image: trekking,
