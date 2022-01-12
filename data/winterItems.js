@@ -1,14 +1,12 @@
 import arcTeryxSoftShell from '@/public/winter/arcTeryxSoftShell.jpeg';
 import atHardShell from '@/public/winter/atHardShell.jpeg';
 import boots from '@/public/winter/boots.jpg';
-import crocodile from '@/public/winter/crocodile.jpg';
 import highcamp from '@/public/winter/highcamp.jpg';
 import mammutSoftShell from '@/public/winter/mammutSoftShell.jpeg';
 import marmotSleepingBag from '@/public/winter/marmotSleepingBag.jpeg';
 import mh30 from '@/public/winter/mh30.JPG';
 import mhPuffy from '@/public/winter/mhPuffy.jpeg';
 import orHat from '@/public/winter/orHat.jpg';
-import rockyMountain from '@/public/winter/rockyMountain.jpg';
 import skiBoots from '@/public/winter/skiBoots.jpeg';
 import skiHelmet from '@/public/winter/skiHelmet.jpeg';
 import verglas from '@/public/winter/verglas.jpg';
@@ -25,7 +23,6 @@ const winterItems = [
         salePrice: '$350',
         retailPrice: '$600'
     },
-
     {
         image: highcamp,
         link: 'https://www.outdoorresearch.com/us/mens-highcamp-mitts-268057',
@@ -37,17 +34,6 @@ const winterItems = [
         retailPrice: '$95'
     },
     {
-        image: rockyMountain,
-        link: 'https://www.outdoorresearch.com/us/rocky-mountain-low-gaiters-243097',
-        name: 'OR: Rocky Mountain Low Gaiters',
-        info: 'Size Large / XL',
-        condition: 'Good / great.',
-        notes: '',
-        salePrice: '$20',
-        retailPrice: '$40',
-        status: 'sold'
-    },
-    {
         image: verglas,
         link: 'https://www.outdoorresearch.com/us/mens-verglas-gaiters-243119',
         name: 'OR: Verglas Gaiters',
@@ -56,17 +42,6 @@ const winterItems = [
         notes: '',
         salePrice: '$30',
         retailPrice: '$70'
-    },
-    {
-        image: crocodile,
-        link: 'https://www.outdoorresearch.com/us/mens-crocodile-gaiters-243118',
-        name: 'OR: Crocodile Gaiters',
-        info: 'Mens, size large.',
-        condition: 'Good / great.',
-        notes: '',
-        salePrice: '$40',
-        retailPrice: '$100',
-        status: 'sold'
     },
     {
         image: orHat,
@@ -96,7 +71,8 @@ const winterItems = [
         condition: 'Good / great',
         notes: '',
         salePrice: '$90',
-        retailPrice: '$240'
+        retailPrice: '$240',
+        status: 'sold'
     },
     {
         image: mammutSoftShell,

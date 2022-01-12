@@ -1,10 +1,8 @@
 import atcGuide from '@/public/rock/atcGuide.jpeg';
-import metoliousCams from '@/public/rock/metoliousCams.jpeg';
 import bdCams from '@/public/rock/bdCams.jpeg';
 import eldelridCarabiner from '@/public/rock/eldelridCarabiner.jpeg';
 import grindstone from '@/public/rock/grindstone.jpeg';
 import grivelPlume from '@/public/rock/grivelPlume.jpeg';
-import metoliousCamMed from '@/public/rock/metoliousCamsMed.jpeg';
 import nutTool from '@/public/rock/nutTool.jpeg';
 import tibloc from '@/public/rock/tibloc.jpeg';
 import trangoKnife from '@/public/rock/trangoKnife.jpeg';
@@ -21,17 +19,6 @@ const rockItems = [
         notes: '',
         salePrice: '$15',
         retailPrice: '$30'
-    },
-    {
-        image: metoliousCams,
-        link: 'https://www.metoliusclimbing.com/ultralight-master-cam.html',
-        name: 'Metolious: Ultralight Master Cam',
-        info: '1 size #00 and 1 #0',
-        condition: 'Great',
-        notes: 'Used around 10x or less.',
-        salePrice: '$30 each',
-        retailPrice: '$60',
-        status: 'sold'
     },
     {
         image: bdCams,
@@ -84,17 +71,6 @@ const rockItems = [
         notes: '37g, lightest locking carabiner in the world.',
         salePrice: '$7',
         retailPrice: '$14'
-    },
-    {
-        image: metoliousCamMed,
-        link: 'https://www.metoliusclimbing.com/ultralight-master-cam.html',
-        name: 'Metolious: Ultralight Master Cam',
-        info: '1 size #2 and 1 #3',
-        condition: 'Good',
-        notes: '',
-        salePrice: '$30 each',
-        retailPrice: '$60',
-        status: 'sold'
     },
     {
         image: nutTool,
