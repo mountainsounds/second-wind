@@ -58,7 +58,8 @@ const rockItems = [
         condition: 'Great',
         notes: '37g, lightest locking carabiner in the world.',
         salePrice: '$7',
-        retailPrice: '$14'
+        retailPrice: '$14',
+        status: 'sold'
     },
     {
         image: nutTool,
@@ -68,7 +69,8 @@ const rockItems = [
         condition: 'Good',
         notes: '',
         salePrice: '$5',
-        retailPrice: '$15'
+        retailPrice: '$15',
+        status: 'sold'
     },
     {
         image: tibloc,
