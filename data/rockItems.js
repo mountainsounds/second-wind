@@ -27,7 +27,8 @@ const rockItems = [
         condition: 'Good',
         notes: '',
         salePrice: '$50 / each',
-        retailPrice: '$120'
+        retailPrice: '$120',
+        status: 'sold'
     },
     {
         image: eldelridCarabiner,
@@ -37,7 +38,8 @@ const rockItems = [
         condition: 'Good',
         notes: 'The lightest carabiner in the world.',
         salePrice: '$5 each',
-        retailPrice: '$12 each'
+        retailPrice: '$12 each',
+        status: 'sold'
     },
     {
         image: grindstone,
