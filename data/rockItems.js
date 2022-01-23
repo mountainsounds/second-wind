@@ -70,7 +70,8 @@ const rockItems = [
         condition: 'Great / like new',
         notes: 'Original version',
         salePrice: '$20',
-        retailPrice: '$45'
+        retailPrice: '$45',
+        status: 'sold'
     },
     {
         image: trangoKnife,
@@ -80,7 +81,8 @@ const rockItems = [
         condition: 'Great / like new',
         notes: '',
         salePrice: '$10',
-        retailPrice: '$20'
+        retailPrice: '$20',
+        status: 'sold'
     },
     {
         image: sportivaRock,
