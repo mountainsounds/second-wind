@@ -58,7 +58,8 @@ const winterItems = [
         condition: 'Good / great',
         notes: '',
         salePrice: '$200',
-        retailPrice: '$475'
+        retailPrice: '$475',
+        status: 'sold'
     },
     {
         image: mammutSoftShell,
