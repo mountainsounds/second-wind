@@ -1,11 +1,9 @@
-import arcTeryxSoftShell from '@/public/winter/arcTeryxSoftShell.jpeg';
 import atHardShell from '@/public/winter/atHardShell.jpeg';
 import boots from '@/public/winter/boots.jpg';
 import highcamp from '@/public/winter/highcamp.jpg';
 import mammutSoftShell from '@/public/winter/mammutSoftShell.jpeg';
 import marmotSleepingBag from '@/public/winter/marmotSleepingBag.jpeg';
 import mh30 from '@/public/winter/mh30.JPG';
-import mhPuffy from '@/public/winter/mhPuffy.jpeg';
 import orHat from '@/public/winter/orHat.jpg';
 import skiBoots from '@/public/winter/skiBoots.jpeg';
 import skiHelmet from '@/public/winter/skiHelmet.jpeg';
@@ -64,17 +62,6 @@ const winterItems = [
         retailPrice: '$475'
     },
     {
-        image: arcTeryxSoftShell,
-        link: 'https://www.rei.com/product/895661/arcteryx-psiphon-fl-hoodie-mens',
-        name: 'Arc Teryx: Psiphon FL Jacket',
-        info: 'Alpine or multi-pitch rock, softshell jacket. Size large.',
-        condition: 'Good / great',
-        notes: '',
-        salePrice: '$90',
-        retailPrice: '$240',
-        status: 'sold'
-    },
-    {
         image: mammutSoftShell,
         link: 'https://www.campsaver.com/mammut-ultimate-nordpfeiler-jacket-mens.html',
         name: 'Mammut: Nordpfeiler Jacket',
@@ -103,17 +90,6 @@ const winterItems = [
         notes: 'Used 6x.',
         salePrice: '$300',
         retailPrice: '$550'
-    },
-    {
-        image: mhPuffy,
-        link: 'https://www.mountainhardwear.com/p/mens-phantom-parka-1851251.html',
-        name: 'Mountain Hardwear: Phantom Parka',
-        info: 'Hooded, down winter belay jacket. Size large.',
-        condition: 'Good',
-        notes: `1 small hole taped over (see photo), and 1 small
-        darkish stain that may come out with the right know how.`,
-        salePrice: '$100',
-        retailPrice: '$400'
     },
     {
         image: marmotSleepingBag,

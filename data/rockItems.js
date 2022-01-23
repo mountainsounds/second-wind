@@ -7,7 +7,6 @@ import nutTool from '@/public/rock/nutTool.jpeg';
 import tibloc from '@/public/rock/tibloc.jpeg';
 import trangoKnife from '@/public/rock/trangoKnife.jpeg';
 import sportivaRock from '@/public/rock/sportivaRock.jpeg';
-import petzlCarabiner from '@/public/rock/petzlCarabiner.jpeg';
 
 const rockItems = [
     {
@@ -39,17 +38,6 @@ const rockItems = [
         notes: 'The lightest carabiner in the world.',
         salePrice: '$5 each',
         retailPrice: '$12 each'
-    },
-    {
-        image: petzlCarabiner,
-        link: 'https://www.petzl.com/US/en/Sport/Carabiners-And-Quickdraws/Sm-D-(US)',
-        name: "Petzl Sm'D",
-        info: 'Quantity: 4.',
-        condition: 'Good',
-        notes: 'Lightweight, D-shaped lockiing carabiner',
-        salePrice: '$7 each',
-        retailPrice: '$18 each',
-        status: 'sold'
     },
     {
         image: grindstone,
