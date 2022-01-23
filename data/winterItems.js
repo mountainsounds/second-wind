@@ -94,7 +94,7 @@ const winterItems = [
         image: mh30,
         link: 'https://www.mountainhardwear.com/p/phantom-30f%2F-1c-reg-1829401.html?dwvar_1829401_color=675&pos=5',
         name: 'Mountain Hardware Phantom 32F',
-        info: '32 degree, older model sleeping bag',
+        info: '32 degree bag.',
         condition: 'Great',
         notes: 'Mostly used for van camping.',
         salePrice: '$150',
