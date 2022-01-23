@@ -2,7 +2,6 @@ import atHardShell from '@/public/winter/atHardShell.jpeg';
 import boots from '@/public/winter/boots.jpg';
 import highcamp from '@/public/winter/highcamp.jpg';
 import mammutSoftShell from '@/public/winter/mammutSoftShell.jpeg';
-import marmotSleepingBag from '@/public/winter/marmotSleepingBag.jpeg';
 import mh30 from '@/public/winter/mh30.JPG';
 import orHat from '@/public/winter/orHat.jpg';
 import skiBoots from '@/public/winter/skiBoots.jpeg';
@@ -90,17 +89,6 @@ const winterItems = [
         notes: 'Used 6x.',
         salePrice: '$300',
         retailPrice: '$550'
-    },
-    {
-        image: marmotSleepingBag,
-        link: 'https://www.rei.com/product/828312/marmot-plasma-40-sleeping-bag',
-        name: 'Marmot: Plasma Sleeping Bag',
-        info: '40 degree sleeping bag.',
-        condition: 'Great',
-        notes: 'Mostly used for van camping.',
-        salePrice: '$150',
-        retailPrice: '$400',
-        status: 'sold'
     },
     {
         image: mh30,

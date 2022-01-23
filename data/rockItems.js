@@ -1,7 +1,6 @@
 import atcGuide from '@/public/rock/atcGuide.jpeg';
 import bdCams from '@/public/rock/bdCams.jpeg';
 import eldelridCarabiner from '@/public/rock/eldelridCarabiner.jpeg';
-import grindstone from '@/public/rock/grindstone.jpeg';
 import grivelPlume from '@/public/rock/grivelPlume.jpeg';
 import nutTool from '@/public/rock/nutTool.jpeg';
 import tibloc from '@/public/rock/tibloc.jpeg';
@@ -39,17 +38,6 @@ const rockItems = [
         notes: 'The lightest carabiner in the world.',
         salePrice: '$5 each',
         retailPrice: '$12 each',
-        status: 'sold'
-    },
-    {
-        image: grindstone,
-        link: 'https://www.tensionclimbing.com/product/grindstone-mk2/',
-        name: 'Tension Grindstone Hangboard',
-        info: 'Original version.',
-        condition: 'Good',
-        notes: 'Comes with Metolious backboard ($20)',
-        salePrice: '$70',
-        retailPrice: '$150',
         status: 'sold'
     },
     {
