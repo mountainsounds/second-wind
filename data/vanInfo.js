@@ -29,7 +29,8 @@ const vanPhotos = [
         condition: 'Great',
         notes: '',
         salePrice: '$500',
-        retailPrice: '$1200'
+        retailPrice: '$1200',
+        status: 'sold'
     },
     {
         image: weatherTech,
