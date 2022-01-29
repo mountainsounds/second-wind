@@ -1,13 +1,5 @@
 const training = [
     {
-        link: 'https://trainingforclimbing.com/buy-books/gimme-kraft/',
-        title: 'Gimme Kraft!',
-        author: 'Patrick Matros & Dicki Korb',
-        condition: 'Great',
-        sale: '$10',
-        retail: '$36'
-    },
-    {
         link: 'https://www.amazon.com/Climbing-Sport-Traditional-How-Climb/dp/1493016407',
         title: 'Climbing: From Sport to Traditional Climbing',
         author: 'Nate Fitch & Ron Funderburke',
@@ -65,14 +57,6 @@ const literature = [
         condition: 'Great',
         sale: '$5',
         retail: '$17'
-    },
-    {
-        link: 'https://www.amazon.com/Tenzing-Norgay-Sherpas-Everest-Tashi/dp/0071381805',
-        title: 'Tenzing Norgay and the Sherpas of Everest',
-        author: 'Tashi Tenzing',
-        condition: 'Great',
-        sale: '$5',
-        retail: '$15'
     },
     {
         link: 'https://www.amazon.com/Beckoning-Silence-Joe-Simpson/dp/0898869412/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1638393424&sr=1-1',
