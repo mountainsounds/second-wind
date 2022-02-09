@@ -7,7 +7,6 @@ import orHat from '@/public/winter/orHat.jpg';
 import skiBoots from '@/public/winter/skiBoots.jpeg';
 import skiHelmet from '@/public/winter/skiHelmet.jpeg';
 import verglas from '@/public/winter/verglas.jpg';
-import trekking from '@/public/winter/trekking.JPG';
 
 const winterItems = [
     {
@@ -101,18 +100,6 @@ const winterItems = [
         salePrice: '$150',
         retailPrice: '$400',
     },
-    {
-        image: trekking,
-        link: 'https://www.blackdiamondequipment.com/en_US/product/alpine-carbon-z-trekking-poles/',
-        name: 'Black Diamond Alpine Carbon Z Trekking Poles',
-        info: '130cm',
-        condition: 'Great, like new',
-        notes: '',
-        salePrice: '$100',
-        retailPrice: '$200'
-    },
-
-
 ]
 
 export default winterItems;

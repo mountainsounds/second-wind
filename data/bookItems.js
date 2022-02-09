@@ -16,28 +16,12 @@ const training = [
         retail: '$20'
     },
     {
-        link: 'https://www.amazon.com/National-Outdoor-Leadership-Schools-Wilderness/dp/0684859092',
-        title: 'NOLS Wilderness Guide',
-        author: 'Mark Harvey',
-        condition: 'Great',
-        sale: '$5',
-        retail: '$15'
-    },
-    {
         link: 'https://www.amazon.com/AMC-Guide-Outdoor-Leadership-Management/dp/193402841X',
         title: 'AMC Guide to Outdoor Leadership',
         author: 'Alex Kosseff',
         condition: 'Great',
         sale: '$5',
         retail: '$16'
-    },
-    {
-        link: 'https://www.amazon.com/Wildcare-Working-Desirable-Conditions-Environments/dp/0615985165',
-        title: 'Wildcare (Wilderness Medecine Textbook)',
-        author: 'Franklin Hubbell (Solo)',
-        condition: 'Great',
-        sale: '$20',
-        retail: '$100'
     },
     {
         link: 'https://www.amazon.com/Fundamentals-Routesetting-Louie-Anderson/dp/0976663015',
