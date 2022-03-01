@@ -16,6 +16,14 @@ const training = [
         retail: '$20'
     },
     {
+        link: 'https://www.amazon.com/Ice-Mixed-Climbing-Technique-Mountaineers/dp/089886769X',
+        title: 'Ice & Mixed Climbing',
+        author: 'Will Gadd',
+        condition: 'Good',
+        sale: '$10',
+        retail: '$25'
+    },
+    {
         link: 'https://www.amazon.com/AMC-Guide-Outdoor-Leadership-Management/dp/193402841X',
         title: 'AMC Guide to Outdoor Leadership',
         author: 'Alex Kosseff',
@@ -62,6 +70,22 @@ const literature = [
 ]
 
 const guidebooks = [
+    {
+        link: 'https://www.wolverinepublishing.com/store/boulder-canyon-rock-climbs/',
+        title: 'Boulder Canyon Rock Climbs (2nd Ed.)',
+        author: "Bob D'Antonio, Peter Beal",
+        condition: 'Decent',
+        sale: '$10',
+        retail: '$35'
+    },
+    {
+        link: 'https://www.amazon.com/Colorado-Snow-Climbs-Guide-Seasons/dp/0976052598',
+        title: 'Colorado Snow Climbs',
+        author: 'Dave Cooper',
+        condition: 'Great',
+        sale: '$10',
+        retail: '$23'
+    },
     {
         link: 'https://www.amazon.com/Fontainebleau-Climbs-Bouldering-Montchausse-Francoise/dp/B00CB5EJ3G',
         title: 'Fontainebleau Climbs: The Finest Bouldering & Cicruits (2nd Edition)',

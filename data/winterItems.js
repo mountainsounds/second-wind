@@ -1,4 +1,3 @@
-import atHardShell from '@/public/winter/atHardShell.jpeg';
 import boots from '@/public/winter/boots.jpg';
 import highcamp from '@/public/winter/highcamp.jpg';
 import mammutSoftShell from '@/public/winter/mammutSoftShell.jpeg';
@@ -48,17 +47,6 @@ const winterItems = [
         notes: '',
         salePrice: '$5',
         retailPrice: '$34'
-    },
-    {
-        image: atHardShell,
-        link: 'https://www.outdoorgearlab.com/reviews/clothing-mens/hardshell-jacket/arcteryx-alpha-fl',
-        name: 'Arc Teryx: Alpha FL Jacket',
-        info: 'Goretex Alpine Shell Jacket. Size large.',
-        condition: 'Good / great',
-        notes: '',
-        salePrice: '$200',
-        retailPrice: '$475',
-        status: 'sold'
     },
     {
         image: mammutSoftShell,
