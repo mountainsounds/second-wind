@@ -21,7 +21,8 @@ const training = [
         author: 'Will Gadd',
         condition: 'Good',
         sale: '$10',
-        retail: '$25'
+        retail: '$25',
+        status: 'sold',
     },
     {
         link: 'https://www.amazon.com/AMC-Guide-Outdoor-Leadership-Management/dp/193402841X',
@@ -29,7 +30,8 @@ const training = [
         author: 'Alex Kosseff',
         condition: 'Great',
         sale: '$5',
-        retail: '$16'
+        retail: '$16',
+        status: 'sold',
     },
     {
         link: 'https://www.amazon.com/Fundamentals-Routesetting-Louie-Anderson/dp/0976663015',
@@ -37,7 +39,8 @@ const training = [
         author: 'Louie Anderson',
         condition: 'Great',
         sale: '$10',
-        retail: '$24'
+        retail: '$24',
+        status: 'sold',
     },
 ]
 
@@ -84,7 +87,8 @@ const guidebooks = [
         author: 'Dave Cooper',
         condition: 'Great',
         sale: '$10',
-        retail: '$23'
+        retail: '$23',
+        status: 'sold',
     },
     {
         link: 'https://www.amazon.com/Fontainebleau-Climbs-Bouldering-Montchausse-Francoise/dp/B00CB5EJ3G',
